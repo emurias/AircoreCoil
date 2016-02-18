@@ -1,2 +1,20 @@
-# AircoreCoil
-Tool for calculation and modelling air core coils (single layer)
+# AircoreCoilCalculator
+This is a tool for calculation and modelling air core coils (single layer).
+
+             ___      _ _             _            _       _
+        Air / __\ore (_) |   ___ __ _| | ___ _   _| | __ _| |_ ___  _ __
+           / /  / _ \| | |  / __/ _` | |/ __| | | | |/ _` | __/ _ \| '__|
+          / /__| (_) | | | | (_| (_| | | (__| |_| | | (_| | || (_) | |
+          \____/\___/|_|_|  \___\__,_|_|\___|\__,_|_|\__,_|\__\___/|_|
+           by Enrique Murias Fernández                                 v0.1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+      |<----l---->|                    _ L _         ESR
+        __  __  __     ___      ------| |_| |_|----/\/\/\-------
+       /  \/  \/  \     |          |                       |
+   ___/  / \ / \ __\___ |D         |__________| |__________|
+        /  //  //  /    |                     | |
+        \_/ \_/ \_/    _|_                     Cl
+
